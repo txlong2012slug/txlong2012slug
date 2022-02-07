@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @txlong2012slug
+- 👀 I’m interested in: CloudNative 
+- 🌱 I’m currently learning:Kubernetes, Istio
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: txlong2012@163.com
